@@ -1,0 +1,9 @@
+2021/10/27-06:55:52.490 1c3ec Reusing MANIFEST /home/andre/.config/p3x-onenote/Local Storage/leveldb/MANIFEST-000001
+2021/10/27-06:55:52.491 1c3ec Recovering log #115
+2021/10/27-06:55:52.493 1c3ec Reusing old log /home/andre/.config/p3x-onenote/Local Storage/leveldb/000115.log 
+2021/10/27-06:57:00.793 1c3fd Level-0 table #119: started
+2021/10/27-06:57:00.816 1c3fd Level-0 table #119: 21211 bytes OK
+2021/10/27-06:57:00.821 1c3fd Delete type=0 #115
+2021/10/27-07:28:00.817 1c4bc Level-0 table #121: started
+2021/10/27-07:28:00.842 1c4bc Level-0 table #121: 20717 bytes OK
+2021/10/27-07:28:00.848 1c4bc Delete type=0 #118

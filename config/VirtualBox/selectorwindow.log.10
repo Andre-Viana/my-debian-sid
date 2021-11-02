@@ -1,0 +1,23 @@
+00:00:00.581656 VirtualBox GUI VM Selector Window 6.1.26 r145957 linux.amd64 (Aug 31 2021 17:00:48) release log
+00:00:00.581659 Log opened 2021-10-30T18:37:48.301576000Z
+00:00:00.581659 Build Type: release
+00:00:00.581664 OS Product: Linux
+00:00:00.581665 OS Release: 5.14.0-3-amd64
+00:00:00.581667 OS Version: #1 SMP Debian 5.14.12-1 (2021-10-14)
+00:00:00.581700 DMI Product Name: X550LA
+00:00:00.581710 DMI Product Version: 1.0       
+00:00:00.581719 Firmware type: UEFI
+00:00:00.582043 Secure Boot: Disabled
+00:00:00.582093 Host RAM: 7839MB (7.6GB) total, 5283MB (5.1GB) available
+00:00:00.582098 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.582098 Process ID: 23080
+00:00:00.582099 Package type: LINUX_64BITS__DEBIAN_11
+00:00:00.582138 Qt version: 5.15.2
+00:00:00.629713 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:01.480370 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x32 x 1920x1048
+00:00:01.940350 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.968071 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:09.177868 convertVerifyAndAddPemCertificateToStore: cbData=0x1c640 expected 0x4d7
+00:00:09.179856 refreshCertificates/#3: Found 0/126 SSL certs we/you trust (previously 0/126).
+00:01:38.197356 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:01:38.231375 GUI: UIMediumEnumerator: Medium-enumeration finished!

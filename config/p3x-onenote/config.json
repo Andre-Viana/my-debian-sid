@@ -1,0 +1,14 @@
+{
+	"lang": "en-US",
+	"darkThemeInvert": false,
+	"disable-hide": true,
+	"option-to-hide-menu": false,
+	"option-to-disable-internal-external-popup": false,
+	"allow-multiple": false,
+	"visible": true,
+	"webview-onenote": {
+		"url": "https://onedrive.live.com/redir?resid=AB16B5A7EC9934B1%21193&page=Edit&wd=target%28Quick%20Notes.one%7C9692c2f5-67d2-4721-bae9-330095944c28%2FEndere%C3%A7o%20e%20CEP%7C1c8cdeb8-6c2b-4275-9944-7d9dc3aa7cd6%2F%29",
+		"proxy": ""
+	},
+	"maximized": true
+}

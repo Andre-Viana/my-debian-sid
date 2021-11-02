@@ -1,0 +1,9 @@
+[2021-10-16 04:03:51.991] [sharedprocess] [info] Deleted from disk ms-ceintl.vscode-language-pack-pt-br /home/andre/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.61.3
+[2021-10-16 04:03:54.706] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-pt-br
+[2021-10-16 04:03:56.624] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-pt-br /home/andre/.config/Code/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-pt-br-1.61.5
+[2021-10-16 04:03:56.860] [sharedprocess] [info] Extracted extension to /home/andre/.vscode/extensions/.e26e1226-c877-471a-a92e-3c7db32b7259: ms-ceintl.vscode-language-pack-pt-br
+[2021-10-16 04:03:56.868] [sharedprocess] [info] Renamed to /home/andre/.vscode/extensions/ms-ceintl.vscode-language-pack-pt-br-1.61.5
+[2021-10-16 04:03:56.870] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-pt-br
+[2021-10-16 04:03:56.875] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-pt-br
+[2021-10-16 04:03:56.970] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-pt-br
+[2021-10-16 04:04:01.196] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.

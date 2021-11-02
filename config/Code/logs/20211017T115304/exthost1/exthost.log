@@ -1,0 +1,25 @@
+[2021-10-17 11:53:08.308] [exthost] [info] extension host started
+[2021-10-17 11:53:08.308] [exthost] [info] Skipping acquiring lock for /home/andre/.config/Code/User/workspaceStorage/6cd114b9431b9313780f9d1b8d397a77.
+[2021-10-17 11:53:08.410] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-10-17 11:53:08.410] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-10-17 11:53:08.447] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-10-17 11:53:08.447] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-10-17 11:53:08.452] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-10-17 11:53:08.452] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-10-17 11:53:08.497] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker, startup: true, activationEvent: '*', root cause: streetsidesoftware.code-spell-checker-portuguese-brazilian
+[2021-10-17 11:53:08.497] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/andre/.vscode/extensions/streetsidesoftware.code-spell-checker-2.0.10/packages/client/dist/extension.js
+[2021-10-17 11:53:08.838] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-10-17 11:53:08.839] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github/dist/extension.js
+[2021-10-17 11:53:08.852] [exthost] [info] ExtensionService#_doActivateExtension streetsidesoftware.code-spell-checker-portuguese-brazilian, startup: true, activationEvent: '*'
+[2021-10-17 11:53:08.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/andre/.vscode/extensions/streetsidesoftware.code-spell-checker-portuguese-brazilian-2.0.2/out/src/extension
+[2021-10-17 11:53:08.944] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-10-17 11:53:08.950] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-10-17 11:53:09.263] [exthost] [info] eager extensions activated
+[2021-10-17 11:53:09.402] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-17 11:53:09.402] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-10-17 11:53:09.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-10-17 11:53:09.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-10-17 11:53:09.639] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-10-17 11:53:09.639] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/github-authentication/dist/extension.js
+[2021-10-17 11:53:22.435] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-10-17 11:53:23.448] [exthost] [info] exiting with code 0
