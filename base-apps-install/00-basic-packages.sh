@@ -2,7 +2,7 @@
 sudo apt update && sudo apt install intel-microcode \
 	build-essential \
 	apt-listchanges \
-	apt-listbugs
+	apt-listbugs \
 	dkms \
 	linux-headers-$(uname -r) \
 	curl \
