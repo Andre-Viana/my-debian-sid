@@ -6,6 +6,4 @@ sudo apt install ttf-mscorefonts-installer \
 	gstreamer1.0-libav \
 	gstreamer1.0-plugins-ugly \
 	gstreamer1.0-vaapi \
-	firmware-linux-nonfree \
-	firmware-atheros \
-	firmware-realtek -y
+	firmware-linux-nonfree -y
