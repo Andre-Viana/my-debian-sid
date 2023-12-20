@@ -6,6 +6,5 @@ sudo apt install libreoffice \
 	libreoffice-style-breeze \
 	atril \
 	poppler-utils \
-	goldendict \
 	gnome-calculator \
 

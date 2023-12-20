@@ -11,7 +11,6 @@ sudo apt install xorg \
 	xfce4-screenshooter \
 	xfce4-session \
 	xfce4-settings \
-	xfce4-taskmanager \
 	xfce4-terminal \
 	xfce4-whiskermenu-plugin \
 	pipewire-audio \
@@ -32,12 +31,10 @@ sudo apt install xorg \
 	network-manager \
 	network-manager-gnome \
 	vim-gtk3 \
+	geany \
 	lxappearance \
-	numix-gtk-theme \
-	numix-icon-theme \
 	arc-theme \
 	breeze-cursor-theme \
-	fonts-font-awesome \
 	inxi \
 	htop \
 	neofetch \
