@@ -6,5 +6,5 @@ sudo apt install libreoffice \
 	libreoffice-style-breeze \
 	atril \
 	poppler-utils \
-	gnome-calculator \
+	mate-calc \
 

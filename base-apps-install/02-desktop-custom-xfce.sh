@@ -8,7 +8,7 @@ sudo apt install xorg \
 	xfce4-notifyd \
 	xfce4-panel \
 	xfce4-power-manager \
-	xfce4-screenshooter \
+	scrot \
 	xfce4-session \
 	xfce4-settings \
 	xfce4-terminal \
