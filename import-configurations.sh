@@ -1,14 +1,10 @@
-#!/bin/basih
+#!/bin/bash
 echo "Copiando scripts..."
-mkdir $HOME/.config
 cp -a config/. $HOME/.config/
-cp -a dotfiles/. $HOME/
-#
 ## Creating common user directories
 xdg-user-dirs-update
-#
 # Remenbem user name on the login screen
-echo "Mostrando o nome do usuário no login...
+echo "Mostrando o nome do usuário no login..."
 sudo sed -i "s/#greeter-hide-users=false/greeter-hide-users=false/" /etc/lightdm/lightdm.conf
 #
 # Replace looked screen for the login manager
